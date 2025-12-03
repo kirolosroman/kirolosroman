@@ -40,18 +40,6 @@ This curated list highlights my capabilities across the development stack:
 | **Version Control** | `Git`, `GitHub` | Collaborative development and code management. |
 
 
-<br>
-
-### 📈 Highlighted Projects & Contributions
-
-My pinned repositories demonstrate both my statistical depth and my development prowess:
-
-* **Full-Stack ML App (Example Project)**: *(Replace one ML repo with a new project that uses React/Django/ML integration.)*
-* **`practical-statistics-for-data-scientists-`**: Showcases the fundamental statistical rigor necessary for solid ML and Data Science work.
-* **`mlwiz` (JavaScript)**: Demonstrates the ability to use JavaScript for frontend components or machine learning visualization.
-* **`machine-learning-projects`**: A portfolio collection of ML models ready for integration into a web service.
-
-<br>
 
 ### 🔗 Connect With Me
 
