@@ -1,53 +1,58 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelJ/MicaelJ/main/assets/hi.gif" width="30"/>
   <h1>Hello, I'm Kirolos Romany!</h1>
-  <p>Data Scientist | Machine Learning Engineer | Statistics Enthusiast</p>
+  <p>Full-Stack Engineer | Data Scientist | Machine Learning Specialist</p>
 </div>
 
 ---
 
-### 🚀 About Me
+### 💡 About Me
 
-I am a **Data Scientist** at **Kalgenta Analytics** based in Egypt, specializing in turning complex datasets into actionable insights and robust predictive models.
+I am a **Full-Stack Engineer** and **Data Scientist** at **Kalgenta Analytics** based in Egypt.
 
-My expertise lies in the entire Machine Learning lifecycle: from statistical analysis and feature engineering to model training, deployment, and validation. I maintain a strong commitment to learning and implementing best practices in data science, often referencing established statistical methodologies (as seen in my pinned repositories).
+My core expertise is building **end-to-end applications**—from developing robust, scalable backends with **Django** and Python, to crafting modern, responsive user interfaces with **React** and **Tailwind CSS**. I differentiate myself by integrating advanced **Machine Learning models** directly into these applications, turning data insights into interactive, deployable features.
+
+This dual focus allows me to manage the entire product lifecycle: from initial data analysis and statistical modeling to final deployment and user experience.
 
 <br>
 
-### 🛠️ My Technology Stack
+### 🛠️ Full-Stack & ML Technology Stack
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | `Python` (Primary), `JavaScript` |
-| **Data Science / ML** | `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow` (Implied) |
-| **Statistical Analysis** | Practical Statistics, Hypothesis Testing, Modeling |
-| **Notebooks** | `Jupyter Notebook` (Heavily Used) |
-| **Data Visualization** | `Tableau`, `Matplotlib`, `Seaborn` |
-| **Version Control** | `Git`, `GitHub` |
+This curated list highlights my capabilities across the development stack:
+
+| Category | Technologies & Tools | Key Focus |
+| :--- | :--- | :--- |
+| **Backend / API** | **Django**, **Python**, RESTful APIs | Building scalable APIs, database integration, server-side logic. |
+| **Frontend / UI** | **React**, **JavaScript**, HTML5, CSS3 | Single-Page Applications (SPAs) and component-based architecture. |
+| **Styling / Design** | **Tailwind CSS**, Bootstrap, Custom CSS | Modern, utility-first styling for responsive and aesthetic interfaces. |
+| **Data Science / ML** | `Scikit-learn`, `Pandas`, `NumPy`, `TensorFlow` (Implied) | Predictive modeling, data preprocessing, and model deployment. |
+| **Visualization** | `Tableau`, `Matplotlib`, `Seaborn` | Data storytelling and dashboard creation. |
+| **Version Control** | `Git`, `GitHub` | Collaborative development and code management. |
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </div>
 
 <br>
 
-### 📈 Highlighted Projects & Learning
+### 📈 Highlighted Projects & Contributions
 
-Here are a few projects and resources that showcase my focus on statistical rigor and practical Machine Learning applications:
+My pinned repositories demonstrate both my statistical depth and my development prowess:
 
-* **`practical-statistics-for-data-scientists-`**: A comprehensive repository featuring Python implementations and code-based exercises based on a popular statistics book, demonstrating a foundational understanding of data methodologies.
-* **`machine-learning-projects`**: A collection of end-to-end ML projects covering various domains and techniques.
-* **`mlwiz`**: An interesting exploration using **JavaScript**, suggesting versatility in adapting ML models or tools for web/frontend applications.
+* **Full-Stack ML App (Example Project)**: *(Replace one ML repo with a new project that uses React/Django/ML integration.)*
+* **`practical-statistics-for-data-scientists-`**: Showcases the fundamental statistical rigor necessary for solid ML and Data Science work.
+* **`mlwiz` (JavaScript)**: Demonstrates the ability to use JavaScript for frontend components or machine learning visualization.
+* **`machine-learning-projects`**: A portfolio collection of ML models ready for integration into a web service.
 
 <br>
 
 ### 🌐 Let's Connect!
 
-I am always open to discussing new projects, challenging data problems, and opportunities in the ML/AI space.
+I'm always looking for opportunities that bridge the gap between robust software development and advanced data intelligence. Feel free to reach out!
 
 | Platform | Link |
 | :--- | :--- |
