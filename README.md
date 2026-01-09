@@ -3,6 +3,7 @@
   <h1>Hello, I'm Kirolos Romany!</h1>
   <p>Full-Stack Engineer | Data Scientist | Machine Learning Specialist</p>
   <div align="center">
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -35,7 +36,7 @@ This curated list highlights my capabilities across the development stack:
 | **Backend / API** | **Django**, **Python**, RESTful APIs | Building scalable APIs, database integration, server-side logic. |
 | **Frontend / UI** | **React**, **JavaScript**, HTML5, CSS3 | Single-Page Applications (SPAs) and component-based architecture. |
 | **Styling / Design** | **Tailwind CSS**, Bootstrap, Custom CSS | Modern, utility-first styling for responsive and aesthetic interfaces. |
-| **Data Science / ML** | `Scikit-learn`, `Pandas`, `NumPy`, `TensorFlow` (Implied) | Predictive modeling, data preprocessing, and model deployment. |
+| **Data Science / ML** | `Scikit-learn`, `Pandas`, `NumPy`, `TensorFlow`  | Predictive modeling, data preprocessing, and model deployment. |
 | **Visualization** | `Tableau`, `Matplotlib`, `Seaborn` | Data storytelling and dashboard creation. |
 | **Version Control** | `Git`, `GitHub` | Collaborative development and code management. |
 
